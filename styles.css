@@ -1,0 +1,11 @@
+/* Custom CSS for Tax Calculator */
+
+.error-icon {
+    cursor: pointer;
+    color: red;
+    font-size: 1.2em;
+}
+
+.error-icon:hover {
+    transform: scale(1.2); /* Increase size on hover */
+}

@@ -8,3 +8,5 @@ This is a tax calculator web application built using HTML, CSS, JavaScript, Boot
 2.  Click on the "Calculate Tax" button to see the tax calculation results in a modal.
 #  Screenshots
 ![Tax Calculator](https://your-screenshot-link.com)
+#  Live Demo
+You can access the live demo of this tax calculator web app [here](https://ghanaram.github.io/Tax-Calculator/).

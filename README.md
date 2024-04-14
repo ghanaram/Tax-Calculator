@@ -6,7 +6,9 @@ This is a tax calculator web application built using HTML, CSS, JavaScript, Boot
 #  Usage
 1.  Enter your gross annual income, extra income, select your age group, and enter total applicable deductions.
 2.  Click on the "Calculate Tax" button to see the tax calculation results in a modal.
+# Tests
+All tests for this application have passed successfully. Below is a screenshot showing the test results:
 #  Screenshots
-![Tax Calculator](https://your-screenshot-link.com)
+[Tax Calculator](https://drive.google.com/drive/folders/1ePpGAVc6h1Ael1PBv0dcPbmGXyZsc72W?usp=drive_link)
 #  Live Demo
 You can access the live demo of this tax calculator web app [here](https://ghanaram.github.io/Tax-Calculator/).

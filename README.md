@@ -7,3 +7,4 @@ This is a tax calculator web application built using HTML, CSS, JavaScript, Boot
 1.  Enter your gross annual income, extra income, select your age group, and enter total applicable deductions.
 2.  Click on the "Calculate Tax" button to see the tax calculation results in a modal.
 #  Screenshots
+![Tax Calculator](https://your-screenshot-link.com)
